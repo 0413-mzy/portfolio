@@ -19,6 +19,8 @@ English version: [README.md](README.md).
   - FIT1045 课程作品集 PDF 文件。
   - 为了方便存储和查看，作品集被拆分成两个 PDF 文件。
 
+分目录说明请见：[Undergraduate/README.zh-CN.md](Undergraduate/README.zh-CN.md)。
+
 ### 速查表
 
 `CheatSheets` 文件夹中保存了 Python 和数据科学相关工具的参考资料，包括：
@@ -34,6 +36,8 @@ English version: [README.md](README.md).
 - Keras
 
 这些资料适合在复习、写作业、做数据分析项目时快速查找语法、概念和常见工作流。
+
+分目录说明请见：[CheatSheets/README.zh-CN.md](CheatSheets/README.zh-CN.md)。
 
 ## 目录结构
 

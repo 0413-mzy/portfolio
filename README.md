@@ -19,6 +19,8 @@ The `Undergraduate` folder contains selected coursework and portfolio materials 
   - FIT1045 portfolio PDF files.
   - The portfolio is split into two PDF parts for easier storage and viewing.
 
+See the folder guide: [Undergraduate/README.md](Undergraduate/README.md).
+
 ### Cheat Sheets
 
 The `CheatSheets` folder contains reference materials for Python and data science tools, including:
@@ -34,6 +36,8 @@ The `CheatSheets` folder contains reference materials for Python and data scienc
 - Keras
 
 These files are useful for quick revision and for looking up common syntax, concepts, and workflows while studying or working on data-related projects.
+
+See the folder guide: [CheatSheets/README.md](CheatSheets/README.md).
 
 ## Repository Structure
 
@@ -69,4 +73,3 @@ This repository is intended as a personal academic and learning archive. Some ma
 ## Contact
 
 GitHub: [0413-mzy](https://github.com/0413-mzy)
-
